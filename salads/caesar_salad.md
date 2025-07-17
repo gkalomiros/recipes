@@ -5,7 +5,7 @@
 * 2 or 3 heads Romain lettuce, washed, well-dried, and torn into chunks
 * 1/4 cup fresh grated Parmesean cheese
 * 1 tbs black pepper
-* [caesar salad dressing](caesar_salad_dressing.md)
+* [caesar salad dressing](/condiments/caesar_salad_dressing.md)
 * [croutons](croutons.md)
 
 ## Directions

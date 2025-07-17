@@ -15,14 +15,14 @@
 * 1 cup (2 sticks) unsalted butter
 * 1 cup brown sugar
 * 1 cup sugar
-* 1 cup [macadamia butter](macadamia_butter.md)
+* 1 cup [macadamia butter](/condiments/macadamia_butter.md)
 * 2 tsp vanilla
 * 2 eggs
 
 ## Directions
 
 1. Preheat oven to 375&deg;
-2. In medium bowl, whisk the [dry](#dry) ingredients
+2. In medium bowl, whisk the dry ingredients
 3. Cream together the butter and sugars in food processor on medium until pale and fluffy
 4. Add the macadamia butter to the food processor until combined
 5. Slowly add the vanilla and eggs to the food processor until combined
