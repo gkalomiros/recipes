@@ -1,6 +1,6 @@
 # Mushroom, Beef &amp; Onion Hand Pies
 
-Makes 2 to 3 pies.
+Makes 3 or 4 pies.
 
 ## Ingredients
 
