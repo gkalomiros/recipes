@@ -6,7 +6,7 @@ Makes 3 or 4 pies
 
 ### Filling
 
-* 8 tart apples, peeled, cored, and chopped
+* 8 tart apples, peeled, cored, and chopped, smaller is better
 1 cup sugar
 2 tsp cinnamon
 1 tsp ginger
@@ -24,6 +24,11 @@ pinch ground cloves
 ## Directions
 
 1. Preheat oven to 375&deg;
+2. Combine sugar, cinnamon, ginger, nutmeg, and cloves into a large mixing bowl
+3. Add the apple and toss well to coat
+4. Top with butter and honey,toss more to coat, and set aside
+5. Sprinkle flour on work surface and roll dough out to about 1/4" thickness
+6. 
 
 ## Reference
 
