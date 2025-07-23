@@ -1,7 +1,5 @@
 # Mushroom, Beef &amp; Onion Hand Pies
 
-Makes 3 or 4 pies.
-
 ## Ingredients
 
 * 1 tbs cooking fat (butter, lard, oil)
@@ -15,7 +13,7 @@ Makes 3 or 4 pies.
 * 1 tsp savory or sage, bruised and chopped
 * 1 tsp rosemary, minced
 * 1 lb ground meat (beef, pork, lamb, venison, bison, etc), crumbled into dice-sized chunks
-* 1/4 batch of [short crust pastry dough](/breads/short_crust_pastry_dough.md)
+* 1/3 batch of [short crust pastry dough](/breads/short_crust_pastry_dough.md)
 
 ## Directions
 
