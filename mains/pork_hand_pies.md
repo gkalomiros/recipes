@@ -10,7 +10,7 @@
 * 1/4 tsp fresh ground black pepper
 * pinch ground nutmeg
 * pinch coarse (like Kosher) salt
-* 1/3 batch short crust pastry
+* 1/3 batch [short crust pastry](/breads/short_crust_pastry.md)
 
 ## Directions
 
