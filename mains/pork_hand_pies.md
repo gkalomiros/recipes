@@ -14,7 +14,15 @@
 
 ## Directions
 
-
+1. Heat a skillet over medium-high heat and brown the sausage
+2. Using a slotted spoon, set aside the sausage
+3. Reduce heat to medium-low and add onions
+4. Sweat the onions until most of the steam has been been released
+5. Return meat to skillet and add the seasonings, mixing well
+6. Cook another couple minutes until fragrant
+7. A little at a time, sprinkle in and mix the flour to thicken the gravy
+8. Take off of heat and allow to cool
+9. Preheat oven to 375&deg;
 
 ## Reference
 
