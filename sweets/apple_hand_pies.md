@@ -1,7 +1,5 @@
 # Apple Hand Pies
 
-Makes 3 or 4 pies
-
 ## Ingredients
 
 ### Filling
