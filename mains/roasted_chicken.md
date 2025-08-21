@@ -22,6 +22,15 @@
 
 ## Variations
 
-* Different dry and wet rubs can be applied and/or aromatic fresh herbs can be added to the stuffing
-* A bed of vegetables can be placed beneath the bird in the roasting pan. If so, they should, at least, be tossed in a
-  light amount of oil and seasoning.
+### Herb-Stuffed
+
+Add fresh herbs to the lemon/onion when stuffing the chicken.
+
+### Harissa
+
+Make a rub of oil, harissa, salt, and crushed garlic and apply before baking. Goes great with potatoes, red onion, and chickpeas tossed in same rub and roasted.
+
+### Honeyed
+
+Make a glaze by simmering 1 cup of cider vinegar, 2/3 cup of honey, 1-2 tsp fresh chopped mint, 1/2 cup currants/raisins,
+and 1 tbs butter in a saucepan for 30 minutes, then pour it over the baked chicken before carving.
