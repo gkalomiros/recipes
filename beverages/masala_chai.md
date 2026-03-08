@@ -1,20 +1,20 @@
-# Masala Chai Tea
+# Masala Chai (serves 2)
 
 ## Ingredients
 
 ### Spices
 
-* 2 - 3 cloves
+* 3-4 cloves
 * 1/2 - 3/4 cinnamon stick
 * 4 green cardomom pods
-* 2 peppercorns
+* 2-4 peppercorns
 
 ### Tea
 
 * 1 1/2 cups water
-* 1/2 tsp ginger
-* 2 1/2 - 3 tbs black tea
-* 1 tbs jaggery (or dark brown sugar)
+* 1 tsp ginger
+* 3 tbs black tea
+* 2 tbs jaggery (or dark brown sugar)
 
 ### Finishing
 
